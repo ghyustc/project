@@ -1,0 +1,2 @@
+Anatase TiO2 typically shows a band gap of 3.2 eV. The density of Al2O3 is 3.95 g/cm3,
+while its thermal conductivity is about 30 W/mK at room temperature.
